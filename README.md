@@ -13,3 +13,6 @@ Thirdly, the AZ-900 certification exam is a cost-effective way to get started wi
 Finally, the AZ-900 certification exam is globally recognized, and it is widely accepted as a benchmark for cloud computing knowledge. By obtaining the AZ-900 certification, individuals can demonstrate their skills and knowledge to employers and clients around the world, which can help them advance their careers and increase their earning potential.
 
 The AZ-900 certification exam is an important and valuable asset for individuals who are looking to advance their careers in the field of cloud computing. With its strong focus on fundamental cloud computing concepts and its cost-effective and flexible nature, the AZ-900 certification exam provides individuals with a solid foundation for success in this rapidly growing industry.
+
+
+### Table of Contents
